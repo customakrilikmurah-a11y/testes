@@ -1,0 +1,6 @@
+{
+  "name": "TalkFlow",
+  "description": "A minimalist, high-design real-time chat application with room-based messaging and Google Auth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
